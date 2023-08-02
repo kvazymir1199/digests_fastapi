@@ -105,7 +105,7 @@ docker-compose exec app python fill_db.py
 ```
 
 Для фильтрации по рейтингу используйте query_params в запросе
-**GET**: http://127.0.0.1:8000/api/users/1/digest?rating=9
+**GET**: http://localhost:8000/users/1/digest?rating=9
 Пример ответа:
 
 ```json
