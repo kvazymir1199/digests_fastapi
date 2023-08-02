@@ -49,7 +49,7 @@
 Клонируйте репозиторий и перейдите в него в командной строке:
 
 ```sh
-git clone https://github.com/kvazymir1199/digests_searcher.git && cd digests_searcher
+git clone https://github.com/kvazymir1199/digests_fastapi && cd fastapi-postgres
 ```
 
 Создайте .env файл командой:
